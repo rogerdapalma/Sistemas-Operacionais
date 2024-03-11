@@ -1,4 +1,5 @@
 # SistemasOperacionais
+Repositório dedicado às atividades realizadas na disciplina de Sistemas Operacionais do curso de Ciência da Computação - UFN.
 ## Social media:
 <div> 
   <a href="https://www.instagram.com/rogerpalma_/?utm_medium" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
